@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"GUJI":[function(require,module,exports) {
 "use strict";exports.__esModule=!0,require("../scss/about.scss");
 },{"../scss/about.scss":"QlN5"}]},{},["GUJI"], null)
-//# sourceMappingURL=/about.d13c77a5.js.map
+//# sourceMappingURL=/about.842d7e55.js.map
