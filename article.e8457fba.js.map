@@ -1,1 +1,0 @@
-{"version":3,"sources":["src/ts/article.ts"],"names":[],"mappings":";AAAA,SAAS,eAAe,WAAW,aAAa,YAAa,SAAS","file":"article.e8457fba.js","sourceRoot":"../app","sourcesContent":["document.getElementById('fb-like').setAttribute('data-href', location.href);\n"]}
